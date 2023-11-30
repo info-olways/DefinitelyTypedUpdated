@@ -1,0 +1,22 @@
+{
+    "private": true,
+    "name": "@types/react-dates-updated",
+    "version": "1.0.0",
+    "projects": [
+        "https://github.com/info-olways/react-dates-updated"
+    ],
+    "dependencies": {
+        "@types/react": "*",
+        "@types/react-outside-click-handler": "*",
+        "moment": "^2.26.0"
+    },
+    "devDependencies": {
+        "@types/react-dates": "workspace:."
+    },
+    "owners": [
+        {
+            "name": "Olways",
+            "githubUsername": "info-olways"
+        }
+    ]
+}
